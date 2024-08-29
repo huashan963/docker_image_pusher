@@ -1,4 +1,4 @@
 nginx
 
 python:alpine3.19
-emqx:emqx4.4.1
+docker.io/library/emqx4.4.1
