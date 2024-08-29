@@ -1,3 +1,4 @@
 nginx
 
 python:alpine3.19
+emqx:4.4.1
